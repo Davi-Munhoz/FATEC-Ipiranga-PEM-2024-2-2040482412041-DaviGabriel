@@ -1,4 +1,11 @@
-
+/*--------------------------------------------------------*
+* Disciplina: Programaçao Estruturada e Modular *
+*          Prof. Carlos Veríssimo                                    *
+*--------------------------------------------------------*
+* Objetivo do Programa: Criar tabuleiro de xadrez      *
+* Data - 29/08/2024                                               * 
+* Autor:Davi Gabriel Ribeiro Munhoz*
+*--------------------------------------------------------*/
 
 #include <stdio.h>
 #include <string.h>
@@ -36,3 +43,4 @@ int main() {
     imprimir(tabuleiro);
     return 0;
 }
+tem menu de contexto
